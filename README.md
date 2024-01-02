@@ -53,6 +53,11 @@ So the strategy is:
 ```
 ### Next ?
 ```
-1. Go-Lang Unit Test
-2. Go-Lang Concurrency
+1. Go-Lang Basic 
+2. Go-Lang Standard Library 
+2. Go-Lang Modules <-this your position
+3. Go-Lang Unit Test <-next position
+4. Go-Lang Goroutine
+5. Go-Lang Database
+6. Go-Lang Web
 ```
